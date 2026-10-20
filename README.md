@@ -1,4 +1,4 @@
-# Resumo Explicativo: Licença AGPL-3.0 ⚖️
+# Guia Explicativo: Armazenamento Local do Navegador 💾
 
 Uma página web simples, responsiva e visual para explicar o armazenamento local do navegador e como fazer backup dos dados.
 
